@@ -21,4 +21,9 @@ public class Second implements Serializable {
 		;
 		return cheGhie;
 	}
+	
+	public String mike1(String cheGhie) {
+		;
+		return cheGhie;
+	}
 }
