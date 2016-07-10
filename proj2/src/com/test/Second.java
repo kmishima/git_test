@@ -14,7 +14,7 @@ public class Second implements Serializable {
 		System.out.println("Metodo main");
 	}
 	public void metodoNoConflict() {
-		;
+		;;;;;;;;;;
 	}
 	
 	public String mike(String cheGhie) {
