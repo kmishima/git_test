@@ -16,4 +16,9 @@ public class Second implements Serializable {
 	public void metodoNoConflict() {
 		;
 	}
+	
+	public String mike(String cheGhie) {
+		;
+		return cheGhie;
+	}
 }
